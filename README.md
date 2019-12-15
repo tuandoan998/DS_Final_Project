@@ -5,5 +5,13 @@ Cho một đoạn văn bản (tiếng Anh), làm sao để biết loại văn b�
 #### Ứng dụng
 Giúp các trang web tin tức, các diễn đàn tự động kiểm tra các bài post từ user thuộc thể loại nào và phân vào lớp cụ thể.
 #### Thu thập dữ liệu
-Dữ liệu thu thập từ https://www.huffpost.com/ (đã kiểm tra file robots.txt và hợp lệ)
+Dữ liệu thu thập từ https://vietnamnews.vn/ (đã kiểm tra file robots.txt và hợp lệ)
 ![robots.txt](https://github.com/tuandoan998/DS_Final_Project/blob/master/misc/img/robots_check.png)
+Dữ liệu bao gồm 6 nhãn (thể loại), mỗi mẫu gồm 3 cột (url, title, text):
+- polictics-laws (800 mẫu)
+- society (800 mẫu)
+- economy (800 mẫu)
+- sports (850 mẫu)
+- environment (850 mẫu)
+- life-style (850 mẫu)
+
