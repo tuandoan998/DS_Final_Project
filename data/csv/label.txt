@@ -1,0 +1,6 @@
+politics-laws: 0
+society: 1
+economy: 2
+sports: 3
+environment: 4
+life-style: 5
