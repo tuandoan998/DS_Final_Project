@@ -9,11 +9,10 @@ Dữ liệu thu thập từ https://vietnamnews.vn/ (đã kiểm tra file robots
 ![robots.txt](https://github.com/tuandoan998/DS_Final_Project/blob/master/misc/img/robots_check.png)   
 
 
-Dữ liệu bao gồm 6 nhãn (thể loại), mỗi mẫu gồm các cột (id, title, text, label):
-- polictics-laws (800 mẫu)
-- society (800 mẫu)
-- economy (800 mẫu)
-- sports (850 mẫu)
-- environment (850 mẫu)
-- life-style (850 mẫu)
+Dữ liệu bao gồm 5 nhãn (thể loại), mỗi mẫu gồm các cột (id, title, text, label):
+- polictics-laws
+- society
+- economy
+- sports
+- environment
 
