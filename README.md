@@ -14,5 +14,11 @@ Dữ liệu bao gồm 5 nhãn (thể loại), mỗi mẫu gồm các cột (id, 
 - society
 - economy
 - sports
-- environment
+- environment   
+
+Cấu trúc project:   
+- Thư mục data: chứa dữ liệu được crawl sẵn (vietnamnews_backup.csv) và file thông tin cho các nhãn (label.txt)
+- Thưc mục scripts: chứa 2 file notebook: crawl_all.ipynb, pipe_line.ipynb
+- Slide
+- Phân công công việc
 
