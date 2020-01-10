@@ -1,0 +1,9 @@
+selenium
+requests_html
+Unidecode
+sklearn
+matplotlib
+seaborn
+pandas
+numpy
+more-itertools
